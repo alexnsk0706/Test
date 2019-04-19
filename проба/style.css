@@ -1,0 +1,379 @@
+@font-face {
+    font-family: 'DINPro';
+    src: url(DINPro.eot);
+    src: local('DINPro'), url('DINPro.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url(Roboto.woff);
+    src: local('Roboto'), url('Roboto.ttf') format('truetype');
+}
+@font-face {
+        font-family: 'Gilroyextrabold';
+        src: url(Gilroyextrabold.woff);
+        src: local('Gilroyextrabold'), url('Gilroyextrabold.ttf') format('truetype');
+}
+body{
+    background-color:#F7F5FA;
+    max-width:1440px;
+    max-height: 3866px;
+    padding:0px;
+    margin:0px auto;
+    }
+.Group21{
+    position: relative;
+    width: 1440px;
+    height: 1130px;
+    left: 0px;
+    top: 2916px;  
+    background: #161616;    
+}
+.Group32{
+    position: relative;
+    left: 433px;
+    right: 433px;
+    top: 956px;
+    bottom: 120px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 111px;
+}
+.group32{
+    position: relative;
+    font-family: DINPro;
+    font-size: 14px;
+    line-height: normal;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #F47821;
+}
+.Group256{
+    position: relative;
+    width: 667px;
+    height: 180px;
+    left: 341px;
+    top: 2500px;
+    
+}
+.Group252{
+    position: relative;
+    width: 667px;
+    height: 120px;
+    left: 341px;
+    top: 2150px;
+}
+.Group251{
+    position: relative;
+    width: 667px;
+    height: 120px;
+    left: 341px;
+    top: 1865px;
+}
+.Group250{
+    position: relative;
+    width: 667px;
+    height: 120px;
+    left: 341px;
+    top: 1575px;
+}
+.Group210{
+    position: relative;
+    width: 453px;
+    height: 52px;
+    left: 494px;
+    
+    font-family: DINPro;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    top: 1350px;
+    color: #FFFFFF;
+}
+.Group22,.Group23,.Group24,.Group25{
+    position: relative;
+    width: 64px;
+    height: 64px;
+    opacity: 0.23;
+    border: 1px solid #FFFFFF;
+    border-radius: 32px;
+}
+.pGroup22,.pGroup23,.pGroup24,.pGroup25 {
+    position: relative;
+    width: 12px;
+    height: 24px;
+    top: -65px;
+    left: 26px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: normal;
+    text-align: center;
+    color: #F47821;
+}
+.h1Group22,.h1Group23,.h1Group24,.h1Group25 {
+    position: relative;
+    width: 575px;
+    height: 50px;
+    top: -110px;
+    left: 100px;
+    font-family: DINPro;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+.iGroup22,.iGroup23,.iGroup24,.iGroup25 {
+    position: relative;
+    left: 100px;
+    top:-100px;
+    font-size: 28px;
+    line-height: 25px;
+    letter-spacing: -0.01em;
+    font-family: Roboto;
+    color: #FFFFFF;
+    border: 0px solid #161616;
+}
+.inp{
+    position: relative;
+    border-bottom: 2px solid #F7F8FA;
+    width: 575px;
+    left: 100px;
+    top:-100px;
+}
+.Group171{
+    position: relative;
+    width: 1139px;
+    height: 374px;
+    left: 135px;
+    top:660px;
+}
+.h1Group171{
+    position: relative;
+    width: 524px;
+    height: 50px;
+    left: 323px;
+    font-family: DINPro;
+    font-size: 40px;
+    line-height: normal;
+    text-align: center;
+    letter-spacing: -0.02em; 
+    color: #000000;
+}
+.ph{
+    position: relative;
+    border-bottom: 2px solid #F47821;
+    top: 100px;
+    width: 24px;
+}
+.Group16{
+    background-image: url(Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+    width: 345px;
+    height: 264px;
+    top: 33px;  
+}
+.Group15{
+    background-image: url(Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+    width: 332px;
+    height: 264px;
+    left: 415px;
+    top: -246px;
+
+}
+.Group14{
+    background-image: url(Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+    width: 326px;
+    height: 264px;
+    left: 813px;
+    top: -524px;
+}
+.h1gr{
+    position: relative;
+    width: 262px;
+    height: 26px;
+    top: 82px;
+    font-family: DINPro;
+    font-size: 20px;
+    line-height: normal;
+    color: #000000;
+}
+.ph1gr{
+    position: relative;
+    width: 326px;
+    height: 105px;
+    top: 123px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #4E4D53;
+}
+.Group202{
+    position: relative;
+    height: 737px;
+    width: 1440px;
+    top: -560px;
+    background:white;
+}
+.mi{
+    position: relative;
+    width: 773px;
+    left: 334px;
+    top: 60px; 
+    font-family: DINPro;
+    font-size: 48px;
+    line-height: normal;
+    text-align: left;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+.mi1{
+    position: relative;
+    right: 333px;
+    left: 334px;
+    top: 60px;
+    width: 773px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    font-size: 16px;
+    line-height: 26px;
+    color: #4E4D53; 
+}
+.img{
+    position: absolute;
+    top:500px;
+}
+.Group7{
+    position: relative;
+    width: 972px;
+    height: 464px;
+    left: 234px;
+    top: -1899px;
+}
+.Group72{
+    
+    position: absolute;
+    width: 486px;
+    height: 232px;
+    top: 232px ;
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+}
+.Group71{
+    
+    position: absolute;
+    width: 486px;
+    height: 232px;
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+}
+.Group74{
+    
+    position: absolute;
+    width: 486px;
+    height: 232px;
+    left: 486px;
+    top: 232px ;
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+}
+.Group73{
+    
+    position: absolute;
+    width: 486px;
+    height: 232px;
+    left:486px;
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+}
+.caption{
+    position: relative;
+    width: 200px;
+    height: 19px;
+    left:60px;
+    top: 30px;
+    font-family: DINPro;
+    font-size: 12px;
+    line-height: 19px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #F47821;
+}
+.string{
+    position: relative;
+    width: 337px;
+    height: 90px;
+    left:60px;
+    top:  30px;
+    font-size: 24px;
+    line-height: normal;
+    letter-spacing: -0.03em;
+    color: #222222;
+}
+.group{
+    position: relative;
+    height: 500px;
+    width: 1440px;
+    background: white;
+    top:-3388px;
+}
+.hgr1{
+    position: relative;
+    width: 692px;
+    height: 54px;
+    top: 165px;
+    left: 374px;
+    font-size: 48px;
+    font-family: DINPro;
+    line-height: 54px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+.pgr1{
+    position: absolute;
+    margin-right: 0px;
+    top: 243px;
+    left: 390px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #4A4556;
+}
+.btn{
+    position: relative;
+    left: 620px;
+    top: 230px;
+    height: 57px;
+    width: 57px;
+    background: lightgray;
+    border-radius: 111px;
+    border: 1px solid lightgray;
+}
+.pbtn{
+    position: relative;
+    width: 160px;
+    height: 20px;
+    left: 46.25%;
+    top: 177px;
+    bottom: 91.65%;
+    font-family: Gilroyextrabold;
+    font-size: 16px;
+    line-height: normal;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #222222;
+}
